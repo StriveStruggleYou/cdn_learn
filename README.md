@@ -1,2 +1,2 @@
 # cdn_learn
-CDN_书籍阅读比较
+CDN_书籍阅读笔记
