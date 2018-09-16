@@ -9,5 +9,6 @@ CDN_书籍阅读笔记
   1.3 保障dns服务器的高可用，udp负载均衡。</br>
 
 2. web proxy cache,一个如果静态文件存在，就直接返回，不存在，就转发到实际原站。</br>
-  2.1 openresty 进行proxy cache
+  2.1 openresty 进行proxy cache </br>
+    2.1.1 为每个域名单独的cache 文件目录</br>
 
