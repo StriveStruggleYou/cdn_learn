@@ -7,6 +7,7 @@ CDN_书籍阅读笔记
   1.1 dns服务器，根据dns 协议，实现一个dns 服务器。</br>
   1.2 ip到物理地址转换的实现。</br>
   1.3 保障dns服务器的高可用，udp负载均衡。</br>
+  1.4 zookeeper 节点调度各个服务器,是否存活
 
 2. web proxy cache,一个如果静态文件存在，就直接返回，不存在，就转发到实际原站。</br>
   2.1 openresty 进行proxy cache </br>
